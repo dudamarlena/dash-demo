@@ -1,0 +1,3 @@
+azure-servicebus
+azure-data-tables
+azure-core
